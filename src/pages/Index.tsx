@@ -41,7 +41,7 @@ const Index = () => {
               </div>
               <div>
                 <h1 className="text-2xl font-heading font-bold text-foreground">Арбуз</h1>
-                <p className="text-xs text-muted-foreground">Аудиторское агентство</p>
+                <p className="text-xs text-muted-foreground">Академия развития бизнеса: Управление и защита</p>
               </div>
             </div>
             <div className="hidden md:flex gap-6">
@@ -76,10 +76,10 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
               <h2 className="text-5xl md:text-6xl font-heading font-bold text-foreground mb-6 leading-tight">
-                Профессиональный учет для вашего бизнеса
+                Академия развития бизнеса
               </h2>
               <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-                Налоговый и бухгалтерский учет, управленческий учет для предприятий с выручкой от 50 млн рублей в год
+                Управление и защита вашего бизнеса. Налоговый и бухгалтерский учет для предприятий с выручкой от 50 млн рублей в год
               </p>
               <div className="flex gap-4">
                 <Button size="lg" className="rounded-full shadow-lg hover:shadow-xl transition-all">
@@ -559,7 +559,7 @@ const Index = () => {
                 <span className="text-xl font-heading font-bold">Арбуз</span>
               </div>
               <p className="text-gray-400 text-sm">
-                Профессиональное аудиторское агентство для среднего и крупного бизнеса
+                Академия развития бизнеса: Управление и защита
               </p>
             </div>
             <div>
