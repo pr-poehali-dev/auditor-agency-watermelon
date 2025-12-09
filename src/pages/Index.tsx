@@ -79,7 +79,7 @@ const Index = () => {
                 Академия развития бизнеса
               </h2>
               <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-                Управление и защита вашего бизнеса. Налоговый и бухгалтерский учет для предприятий с выручкой от 50 млн рублей в год
+                Управление и защита вашего бизнеса. Налоговый, бухгалтерский и управленческий учет для малого и среднего бизнеса, индивидуальных предпринимателей
               </p>
               <div className="flex gap-4">
                 <Button size="lg" className="rounded-full shadow-lg hover:shadow-xl transition-all">
