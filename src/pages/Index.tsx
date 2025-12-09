@@ -120,7 +120,7 @@ const Index = () => {
           <div className="max-w-3xl mx-auto text-center mb-16 animate-fade-in">
             <h3 className="text-4xl font-heading font-bold text-foreground mb-4">О компании</h3>
             <p className="text-lg text-muted-foreground">
-              Управление и защита вашего бизнеса. Налоговый, бухгалтерский и управленческий учет для малого и среднего бизнеса, индивидуальных предпринимателей
+              Мы помогаем бизнесу расти, предоставляя профессиональные услуги в области учета и аудита
             </p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
