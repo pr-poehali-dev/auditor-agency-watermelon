@@ -82,10 +82,6 @@ const Index = () => {
                 Управление и защита вашего бизнеса. Налоговый, бухгалтерский и управленческий учет для малого и среднего бизнеса, индивидуальных предпринимателей
               </p>
               <div className="flex gap-4">
-                <Button size="lg" className="rounded-full shadow-lg hover:shadow-xl transition-all">
-                  <Icon name="Calculator" className="mr-2" size={20} />
-                  Рассчитать налоги
-                </Button>
                 <Button size="lg" variant="outline" className="rounded-full">
                   Узнать больше
                 </Button>
